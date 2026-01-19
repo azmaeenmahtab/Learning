@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------
 ### inline-block 
 - wraps its children tightly , ultimately getting the height and width of its biggest children.
 
