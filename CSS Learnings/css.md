@@ -9,10 +9,9 @@
 ----------------------------------------------------------------------------
 - top-1/2 (equivalent to top: 50%) - Positions the top edge of the text card at 50% down from the top of the parent container
 
--translate-y-1/2 (equivalent to transform: translateY(-50%)) - Shifts the card upward by 50% of its own height
+- -translate-y-1/2 (equivalent to transform: translateY(-50%)) - Shifts the card upward by 50% of its own height
 
-Here's why this keeps it centered at any height:
-
+# Here's why this keeps it centered at any height:
 After top-1/2, the card's top edge is at the parent's vertical midpoint
 Then -translate-y-1/2 pulls it back up by half of the card's own height
 This aligns the card's center with the parent's center
