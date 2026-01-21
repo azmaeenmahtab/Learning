@@ -37,3 +37,5 @@ Welcome to my personal learning log. Every folder captures a new topic or experi
 - `git status` — see what's changed before committing
 - `git log --oneline` — review progress over time
 
+
+textfield er data type = texteditingcontroller
