@@ -1,3 +1,9 @@
+## IMPORTANT NOTES
+- Never use Package for UI.
+- Only use Package for Functionality.
+
+
+
 # Learning
 
 Welcome to my personal learning log. Every folder captures a new topic or experiment—organized, dated, and easy to revisit.
@@ -30,3 +36,4 @@ Welcome to my personal learning log. Every folder captures a new topic or experi
 - `tree -L 2` — glance at the folder layout
 - `git status` — see what's changed before committing
 - `git log --oneline` — review progress over time
+
