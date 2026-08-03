@@ -84,3 +84,9 @@ for(let i = 0; i< nums.length;){
 }
 
 console.log(" after removing duplicates : ",nums)
+
+// removing duplicates using set
+
+const unique = [...new Set(arrr)]
+
+console.log("using set : ",unique)
